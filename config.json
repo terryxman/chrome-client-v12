@@ -1,0 +1,8 @@
+{
+  "url": {
+    "ss": "http://e.17500.cn/getData/ssq.TXT",
+    "dl": "http://e.17500.cn/getData/dlt.TXT"
+  },
+  "timeout": 10,
+  "retryTime": 3
+}

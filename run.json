@@ -1,0 +1,15 @@
+{
+  "run": "GetLine",
+  "Status": {
+    "name": "status",
+    "desc": "查看状态"
+  },
+  "PrintAll": {
+    "name": "PrintAll",
+    "desc": "把所有数据规整的打印出来"
+  },
+  "GetLine": {
+    "name": "GetLine",
+    "desc": "取得线"
+  }
+}
